@@ -1,7 +1,5 @@
 # Book Selling eCommerce Project : BookSmart
 
-## About
-
 This is a book-selling eCommerce project built using HTML, CSS, JavaScript, PHP, and MySQL. The project is designed to help understand the full-stack functionality of PHP while implementing essential eCommerce features. It includes all the necessary functionalities that a typical book-selling website should have.
 
 ## Features
